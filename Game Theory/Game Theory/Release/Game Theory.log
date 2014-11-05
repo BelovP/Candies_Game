@@ -1,0 +1,36 @@
+﻿Сборка начата 01.11.2014 2:21:02.
+     1>Проект "C:\Программирование\Теория игр\Game Theory\Game Theory\Game Theory.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Release\Game Theory.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Release\Game Theory.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Moc'ing gametheory.h...
+         Uic'ing gametheory.ui...
+         Rcc'ing gametheory.qrc...
+     1>RCC : warning : No resources in 'C:\╨Я╤А╨╛╨│╤А╨░╨╝╨╝╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡\╨в╨╡╨╛╤А╨╕╤П ╨╕╨│╤А\Game Theory\Game Theory\gametheory.qrc'.
+         
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Release /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt gametheory.cpp GeneratedFiles\Release\moc_gametheory.cpp main.cpp
+         gametheory.cpp
+         moc_gametheory.cpp
+         main.cpp
+         Создание кода...
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Release /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_gametheory.cpp
+         qrc_gametheory.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Программирование\Теория игр\Game Theory\Win32\Release\\Game Theory.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.5\lib qtmain.lib QtCore4.lib QtGui4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Game Theory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Программирование\Теория игр\Game Theory\Win32\Release\Game Theory.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Программирование\Теория игр\Game Theory\Win32\Release\Game Theory.lib" /MACHINE:X86 Release\gametheory.obj
+         Release\qrc_gametheory.obj
+         Release\moc_gametheory.obj
+         Release\main.obj
+         Game Theory.vcxproj -> C:\Программирование\Теория игр\Game Theory\Win32\Release\Game Theory.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Программирование\Теория игр\Game Theory\Win32\Release\\Game Theory.exe;#1" /manifest "Release\Game Theory.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\Game Theory.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Game Theory.lastbuildstate".
+     1>Построение проекта "C:\Программирование\Теория игр\Game Theory\Game Theory\Game Theory.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.86

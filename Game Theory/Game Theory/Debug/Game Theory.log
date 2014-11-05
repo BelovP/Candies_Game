@@ -1,0 +1,30 @@
+﻿Сборка начата 31.10.2014 2:16:39.
+     1>Проект "C:\Программирование\Теория игр\Game Theory\Game Theory\Game Theory.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Game Theory.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       CustomBuild:
+         Moc'ing gametheory.h...
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.5\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.5\include\QtCore /IC:\Qt\4.8.5\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_gametheory.cpp gametheory.cpp main.cpp
+         moc_gametheory.cpp
+         gametheory.cpp
+         main.cpp
+         Создание кода...
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Программирование\Теория игр\Game Theory\Win32\Debug\\Game Theory.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.5\lib qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Game Theory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Программирование\Теория игр\Game Theory\Win32\Debug\Game Theory.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Программирование\Теория игр\Game Theory\Win32\Debug\Game Theory.lib" /MACHINE:X86 Debug\gametheory.obj
+         Debug\moc_gametheory.obj
+         Debug\qrc_gametheory.obj
+         Debug\main.obj
+         LINK : не найден или не выполнена сборка C:\Программирование\Теория игр\Game Theory\Win32\Debug\\Game Theory.exe при последней инкрементной компоновке; выполняется полная компоновка
+         Game Theory.vcxproj -> C:\Программирование\Теория игр\Game Theory\Win32\Debug\Game Theory.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Программирование\Теория игр\Game Theory\Win32\Debug\\Game Theory.exe;#1" /manifest "Debug\Game Theory.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\Game Theory.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Game Theory.lastbuildstate".
+     1>Построение проекта "C:\Программирование\Теория игр\Game Theory\Game Theory\Game Theory.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:05.40
